@@ -1,0 +1,13 @@
+.card {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid purple;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.card img {
+    max-width: 100%;
+}
